@@ -8,7 +8,6 @@ sdfdsfdsfds
 "这是在master增的 dev confict???"
 
 
-"master新增2"
-
+"master新增2 master"
 
 dev created
